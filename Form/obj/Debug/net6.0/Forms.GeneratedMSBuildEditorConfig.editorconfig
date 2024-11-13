@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Forms
+build_property.RootNamespace = Forms
+build_property.ProjectDir = C:\Users\Kacper\Desktop\zadanie asp\AnkietaZadanie-master\AnkietaZadanie-master\Forms\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kacper\Desktop\zadanie asp\AnkietaZadanie-master\AnkietaZadanie-master\Forms
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kacper/Desktop/zadanie asp/AnkietaZadanie-master/AnkietaZadanie-master/Forms/Views/Data/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kacper/Desktop/zadanie asp/AnkietaZadanie-master/AnkietaZadanie-master/Forms/Views/Data/Resault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxSZXNhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kacper/Desktop/zadanie asp/AnkietaZadanie-master/AnkietaZadanie-master/Forms/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
